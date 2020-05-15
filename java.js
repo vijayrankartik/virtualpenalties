@@ -31,6 +31,8 @@ left.addEventListener("click",function()
                     pl.textContent="0";
                     ai.textContent="0";
                     msg.textContent="";
+                    plsc=0;
+                    aisc=0;
                 }    
                     console.log(plsc);
            }
@@ -60,6 +62,8 @@ left.addEventListener("click",function()
                     pl.textContent="0";
                     ai.textContent="0";
                     msg.textContent="";
+                    plsc=0;
+                    aisc=0;
                 }
                     console.log(aisc);
            }
@@ -95,6 +99,8 @@ right.addEventListener("click",function()
                 pl.textContent="0";
                 ai.textContent="0";
                 msg.textContent="";
+                plsc=0;
+                aisc=0;
             }    
                 console.log(plsc);
            }
@@ -124,6 +130,8 @@ right.addEventListener("click",function()
                 pl.textContent="0";
                 ai.textContent="0";
                 msg.textContent="";
+                plsc=0;
+                aisc=0;
             }    
                 console.log(aisc);
           }
